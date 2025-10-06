@@ -5,7 +5,7 @@ A simple React.js application to display and filter company data using JSON Serv
 ## 🚀 Steps to Run the Project
 
 1️⃣ **Clone the Repository**
-```bash
+
 git clone https://github.com/Waseem-khan7/Companies-Directory
 cd companies-directory
 
