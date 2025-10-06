@@ -13,10 +13,10 @@ npm install
 npm install tailwindcss @tailwindcss/vite
 
 3️⃣ Start JSON Server
-If you don’t have JSON Server installed globally:
+# If you don’t have JSON Server installed globally:
 npm install -g json-server
 
-Then start the server:
+# Then start the server:
 json-server --watch db.json --port 5000
 
 4️⃣ Start the React App
