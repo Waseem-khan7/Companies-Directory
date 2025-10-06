@@ -1,0 +1,804 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Aurora Tech",
+      "industry": "Software",
+      "location": "Bengaluru",
+      "employees": 120,
+      "founded": 2016
+    },
+    {
+      "id": 2,
+      "name": "GreenFields Agro",
+      "industry": "Agriculture",
+      "location": "Pune",
+      "employees": 45,
+      "founded": 2012
+    },
+    {
+      "id": 3,
+      "name": "Phoenix Logistics",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 300,
+      "founded": 2009
+    },
+    {
+      "id": 4,
+      "name": "Neon Health",
+      "industry": "Healthcare",
+      "location": "Mumbai",
+      "employees": 220,
+      "founded": 2018
+    },
+    {
+      "id": 5,
+      "name": "BluePeak Finance",
+      "industry": "Finance",
+      "location": "Delhi",
+      "employees": 150,
+      "founded": 2010
+    },
+    {
+      "id": 6,
+      "name": "Orbit Labs",
+      "industry": "Software",
+      "location": "Noida",
+      "employees": 85,
+      "founded": 2015
+    },
+    {
+      "id": 7,
+      "name": "EcoGrow Organics",
+      "industry": "Agriculture",
+      "location": "Chandigarh",
+      "employees": 50,
+      "founded": 2013
+    },
+    {
+      "id": 8,
+      "name": "SkyMove Logistics",
+      "industry": "Logistics",
+      "location": "Ahmedabad",
+      "employees": 270,
+      "founded": 2014
+    },
+    {
+      "id": 9,
+      "name": "CureWell Medicals",
+      "industry": "Healthcare",
+      "location": "Chennai",
+      "employees": 190,
+      "founded": 2011
+    },
+    {
+      "id": 10,
+      "name": "TrustBank Solutions",
+      "industry": "Finance",
+      "location": "Kolkata",
+      "employees": 200,
+      "founded": 2017
+    },
+    {
+      "id": 11,
+      "name": "PixelWave Studios",
+      "industry": "Design",
+      "location": "Bengaluru",
+      "employees": 60,
+      "founded": 2019
+    },
+    {
+      "id": 12,
+      "name": "FarmFresh India",
+      "industry": "Agriculture",
+      "location": "Lucknow",
+      "employees": 55,
+      "founded": 2016
+    },
+    {
+      "id": 13,
+      "name": "ShipEase",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 230,
+      "founded": 2012
+    },
+    {
+      "id": 14,
+      "name": "HealthBridge",
+      "industry": "Healthcare",
+      "location": "Pune",
+      "employees": 300,
+      "founded": 2018
+    },
+    {
+      "id": 15,
+      "name": "CapitalCore Finance",
+      "industry": "Finance",
+      "location": "Mumbai",
+      "employees": 170,
+      "founded": 2014
+    },
+    {
+      "id": 16,
+      "name": "NextGen Systems",
+      "industry": "Software",
+      "location": "Delhi",
+      "employees": 110,
+      "founded": 2013
+    },
+    {
+      "id": 17,
+      "name": "AgroVista",
+      "industry": "Agriculture",
+      "location": "Nagpur",
+      "employees": 75,
+      "founded": 2015
+    },
+    {
+      "id": 18,
+      "name": "FastTrack Movers",
+      "industry": "Logistics",
+      "location": "Noida",
+      "employees": 250,
+      "founded": 2011
+    },
+    {
+      "id": 19,
+      "name": "WellCare Hospitals",
+      "industry": "Healthcare",
+      "location": "Jaipur",
+      "employees": 400,
+      "founded": 2010
+    },
+    {
+      "id": 20,
+      "name": "GrowWealth Finance",
+      "industry": "Finance",
+      "location": "Ahmedabad",
+      "employees": 130,
+      "founded": 2016
+    },
+    {
+      "id": 21,
+      "name": "BrightCode Technologies",
+      "industry": "Software",
+      "location": "Indore",
+      "employees": 95,
+      "founded": 2018
+    },
+    {
+      "id": 22,
+      "name": "NaturePure Agro",
+      "industry": "Agriculture",
+      "location": "Bhopal",
+      "employees": 40,
+      "founded": 2014
+    },
+    {
+      "id": 23,
+      "name": "TransWay Logistics",
+      "industry": "Logistics",
+      "location": "Chennai",
+      "employees": 280,
+      "founded": 2012
+    },
+    {
+      "id": 24,
+      "name": "LifeLine Clinics",
+      "industry": "Healthcare",
+      "location": "Delhi",
+      "employees": 260,
+      "founded": 2015
+    },
+    {
+      "id": 25,
+      "name": "SafeBank Ltd",
+      "industry": "Finance",
+      "location": "Mumbai",
+      "employees": 190,
+      "founded": 2011
+    },
+    {
+      "id": 26,
+      "name": "CloudSpark",
+      "industry": "Software",
+      "location": "Bengaluru",
+      "employees": 210,
+      "founded": 2017
+    },
+    {
+      "id": 27,
+      "name": "HarvestHub",
+      "industry": "Agriculture",
+      "location": "Pune",
+      "employees": 60,
+      "founded": 2013
+    },
+    {
+      "id": 28,
+      "name": "CargoLink",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 350,
+      "founded": 2008
+    },
+    {
+      "id": 29,
+      "name": "MediPlus Pharma",
+      "industry": "Healthcare",
+      "location": "Kolkata",
+      "employees": 240,
+      "founded": 2019
+    },
+    {
+      "id": 30,
+      "name": "FinTrust Corp",
+      "industry": "Finance",
+      "location": "Delhi",
+      "employees": 180,
+      "founded": 2012
+    },
+    {
+      "id": 31,
+      "name": "TechNova",
+      "industry": "Software",
+      "location": "Chennai",
+      "employees": 150,
+      "founded": 2018
+    },
+    {
+      "id": 32,
+      "name": "AgriRoots",
+      "industry": "Agriculture",
+      "location": "Lucknow",
+      "employees": 70,
+      "founded": 2014
+    },
+    {
+      "id": 33,
+      "name": "MoveFast Logistics",
+      "industry": "Logistics",
+      "location": "Mumbai",
+      "employees": 330,
+      "founded": 2011
+    },
+    {
+      "id": 34,
+      "name": "HealthSphere",
+      "industry": "Healthcare",
+      "location": "Jaipur",
+      "employees": 250,
+      "founded": 2016
+    },
+    {
+      "id": 35,
+      "name": "CashWave Finance",
+      "industry": "Finance",
+      "location": "Ahmedabad",
+      "employees": 100,
+      "founded": 2013
+    },
+    {
+      "id": 36,
+      "name": "CyberNest",
+      "industry": "Software",
+      "location": "Delhi",
+      "employees": 140,
+      "founded": 2017
+    },
+    {
+      "id": 37,
+      "name": "GreenHarvest",
+      "industry": "Agriculture",
+      "location": "Nagpur",
+      "employees": 55,
+      "founded": 2011
+    },
+    {
+      "id": 38,
+      "name": "ShipQuick",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 310,
+      "founded": 2014
+    },
+    {
+      "id": 39,
+      "name": "CareCure",
+      "industry": "Healthcare",
+      "location": "Chennai",
+      "employees": 220,
+      "founded": 2018
+    },
+    {
+      "id": 40,
+      "name": "InvestSure",
+      "industry": "Finance",
+      "location": "Pune",
+      "employees": 170,
+      "founded": 2012
+    },
+    {
+      "id": 41,
+      "name": "AlphaSoft",
+      "industry": "Software",
+      "location": "Bengaluru",
+      "employees": 130,
+      "founded": 2019
+    },
+    {
+      "id": 42,
+      "name": "CropWell Agro",
+      "industry": "Agriculture",
+      "location": "Bhopal",
+      "employees": 48,
+      "founded": 2013
+    },
+    {
+      "id": 43,
+      "name": "SpeedShip",
+      "industry": "Logistics",
+      "location": "Noida",
+      "employees": 290,
+      "founded": 2015
+    },
+    {
+      "id": 44,
+      "name": "CureLink",
+      "industry": "Healthcare",
+      "location": "Delhi",
+      "employees": 310,
+      "founded": 2010
+    },
+    {
+      "id": 45,
+      "name": "SmartFinance",
+      "industry": "Finance",
+      "location": "Mumbai",
+      "employees": 190,
+      "founded": 2014
+    },
+    {
+      "id": 46,
+      "name": "WebNest",
+      "industry": "Software",
+      "location": "Pune",
+      "employees": 100,
+      "founded": 2016
+    },
+    {
+      "id": 47,
+      "name": "AgriWorld",
+      "industry": "Agriculture",
+      "location": "Lucknow",
+      "employees": 60,
+      "founded": 2015
+    },
+    {
+      "id": 48,
+      "name": "TransXpress",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 270,
+      "founded": 2011
+    },
+    {
+      "id": 49,
+      "name": "MediZone",
+      "industry": "Healthcare",
+      "location": "Bengaluru",
+      "employees": 230,
+      "founded": 2019
+    },
+    {
+      "id": 50,
+      "name": "PayLink Finance",
+      "industry": "Finance",
+      "location": "Kolkata",
+      "employees": 180,
+      "founded": 2013
+    },
+    {
+      "id": 51,
+      "name": "SoftCrest",
+      "industry": "Software",
+      "location": "Chennai",
+      "employees": 145,
+      "founded": 2014
+    },
+    {
+      "id": 52,
+      "name": "AgroRoots",
+      "industry": "Agriculture",
+      "location": "Nagpur",
+      "employees": 70,
+      "founded": 2012
+    },
+    {
+      "id": 53,
+      "name": "ShipEaseX",
+      "industry": "Logistics",
+      "location": "Noida",
+      "employees": 310,
+      "founded": 2017
+    },
+    {
+      "id": 54,
+      "name": "LifeBridge",
+      "industry": "Healthcare",
+      "location": "Jaipur",
+      "employees": 200,
+      "founded": 2015
+    },
+    {
+      "id": 55,
+      "name": "GrowCapital",
+      "industry": "Finance",
+      "location": "Ahmedabad",
+      "employees": 150,
+      "founded": 2010
+    },
+    {
+      "id": 56,
+      "name": "BrightSoft",
+      "industry": "Software",
+      "location": "Bengaluru",
+      "employees": 160,
+      "founded": 2018
+    },
+    {
+      "id": 57,
+      "name": "FarmFresh Agro",
+      "industry": "Agriculture",
+      "location": "Pune",
+      "employees": 65,
+      "founded": 2011
+    },
+    {
+      "id": 58,
+      "name": "CargoSwift",
+      "industry": "Logistics",
+      "location": "Delhi",
+      "employees": 280,
+      "founded": 2016
+    },
+    {
+      "id": 59,
+      "name": "MediPlus Care",
+      "industry": "Healthcare",
+      "location": "Chennai",
+      "employees": 190,
+      "founded": 2014
+    },
+    {
+      "id": 60,
+      "name": "FinSmart",
+      "industry": "Finance",
+      "location": "Mumbai",
+      "employees": 210,
+      "founded": 2012
+    },
+    {
+      "id": 61,
+      "name": "DevHive",
+      "industry": "Software",
+      "location": "Noida",
+      "employees": 100,
+      "founded": 2017
+    },
+    {
+      "id": 62,
+      "name": "PureCrop",
+      "industry": "Agriculture",
+      "location": "Lucknow",
+      "employees": 45,
+      "founded": 2013
+    },
+    {
+      "id": 63,
+      "name": "FastMove",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 350,
+      "founded": 2009
+    },
+    {
+      "id": 64,
+      "name": "WellnessPlus",
+      "industry": "Healthcare",
+      "location": "Delhi",
+      "employees": 260,
+      "founded": 2018
+    },
+    {
+      "id": 65,
+      "name": "SafeInvest",
+      "industry": "Finance",
+      "location": "Ahmedabad",
+      "employees": 170,
+      "founded": 2015
+    },
+    {
+      "id": 66,
+      "name": "CodeMatrix",
+      "industry": "Software",
+      "location": "Bengaluru",
+      "employees": 180,
+      "founded": 2014
+    },
+    {
+      "id": 67,
+      "name": "GreenGrowers",
+      "industry": "Agriculture",
+      "location": "Pune",
+      "employees": 55,
+      "founded": 2010
+    },
+    {
+      "id": 68,
+      "name": "ShipNet",
+      "industry": "Logistics",
+      "location": "Chennai",
+      "employees": 330,
+      "founded": 2011
+    },
+    {
+      "id": 69,
+      "name": "HealthHub",
+      "industry": "Healthcare",
+      "location": "Mumbai",
+      "employees": 210,
+      "founded": 2019
+    },
+    {
+      "id": 70,
+      "name": "WealthCore",
+      "industry": "Finance",
+      "location": "Delhi",
+      "employees": 140,
+      "founded": 2012
+    },
+    {
+      "id": 71,
+      "name": "Innovatech",
+      "industry": "Software",
+      "location": "Hyderabad",
+      "employees": 120,
+      "founded": 2017
+    },
+    {
+      "id": 72,
+      "name": "AgriSphere",
+      "industry": "Agriculture",
+      "location": "Nagpur",
+      "employees": 50,
+      "founded": 2014
+    },
+    {
+      "id": 73,
+      "name": "MoveLink",
+      "industry": "Logistics",
+      "location": "Noida",
+      "employees": 280,
+      "founded": 2013
+    },
+    {
+      "id": 74,
+      "name": "HealthFirst",
+      "industry": "Healthcare",
+      "location": "Pune",
+      "employees": 220,
+      "founded": 2018
+    },
+    {
+      "id": 75,
+      "name": "FinTrust Pro",
+      "industry": "Finance",
+      "location": "Ahmedabad",
+      "employees": 190,
+      "founded": 2010
+    },
+    {
+      "id": 76,
+      "name": "CodeForge",
+      "industry": "Software",
+      "location": "Bengaluru",
+      "employees": 155,
+      "founded": 2016
+    },
+    {
+      "id": 77,
+      "name": "FarmSphere",
+      "industry": "Agriculture",
+      "location": "Chandigarh",
+      "employees": 60,
+      "founded": 2011
+    },
+    {
+      "id": 78,
+      "name": "ShipWay",
+      "industry": "Logistics",
+      "location": "Delhi",
+      "employees": 300,
+      "founded": 2014
+    },
+    {
+      "id": 79,
+      "name": "MediHealth",
+      "industry": "Healthcare",
+      "location": "Jaipur",
+      "employees": 240,
+      "founded": 2012
+    },
+    {
+      "id": 80,
+      "name": "GrowWealth Pro",
+      "industry": "Finance",
+      "location": "Mumbai",
+      "employees": 200,
+      "founded": 2017
+    },
+    {
+      "id": 81,
+      "name": "PixelTech",
+      "industry": "Software",
+      "location": "Kolkata",
+      "employees": 125,
+      "founded": 2018
+    },
+    {
+      "id": 82,
+      "name": "EcoFarms",
+      "industry": "Agriculture",
+      "location": "Pune",
+      "employees": 70,
+      "founded": 2015
+    },
+    {
+      "id": 83,
+      "name": "ShipPoint",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 310,
+      "founded": 2011
+    },
+    {
+      "id": 84,
+      "name": "CurePlus",
+      "industry": "Healthcare",
+      "location": "Delhi",
+      "employees": 230,
+      "founded": 2014
+    },
+    {
+      "id": 85,
+      "name": "FinEdge",
+      "industry": "Finance",
+      "location": "Bengaluru",
+      "employees": 150,
+      "founded": 2016
+    },
+    {
+      "id": 86,
+      "name": "WebCrafters",
+      "industry": "Software",
+      "location": "Noida",
+      "employees": 130,
+      "founded": 2013
+    },
+    {
+      "id": 87,
+      "name": "CropCare",
+      "industry": "Agriculture",
+      "location": "Lucknow",
+      "employees": 60,
+      "founded": 2012
+    },
+    {
+      "id": 88,
+      "name": "MoveSwift",
+      "industry": "Logistics",
+      "location": "Mumbai",
+      "employees": 270,
+      "founded": 2015
+    },
+    {
+      "id": 89,
+      "name": "HealthWave",
+      "industry": "Healthcare",
+      "location": "Chennai",
+      "employees": 210,
+      "founded": 2011
+    },
+    {
+      "id": 90,
+      "name": "CashGrow",
+      "industry": "Finance",
+      "location": "Delhi",
+      "employees": 160,
+      "founded": 2018
+    },
+    {
+      "id": 91,
+      "name": "AppXpert",
+      "industry": "Software",
+      "location": "Pune",
+      "employees": 140,
+      "founded": 2019
+    },
+    {
+      "id": 92,
+      "name": "PureAgro",
+      "industry": "Agriculture",
+      "location": "Nagpur",
+      "employees": 55,
+      "founded": 2014
+    },
+    {
+      "id": 93,
+      "name": "CargoLinkX",
+      "industry": "Logistics",
+      "location": "Hyderabad",
+      "employees": 340,
+      "founded": 2010
+    },
+    {
+      "id": 94,
+      "name": "MediCore",
+      "industry": "Healthcare",
+      "location": "Bengaluru",
+      "employees": 260,
+      "founded": 2017
+    },
+    {
+      "id": 95,
+      "name": "SafeFinance",
+      "industry": "Finance",
+      "location": "Ahmedabad",
+      "employees": 180,
+      "founded": 2013
+    },
+    {
+      "id": 96,
+      "name": "Cloudify",
+      "industry": "Software",
+      "location": "Delhi",
+      "employees": 150,
+      "founded": 2016
+    },
+    {
+      "id": 97,
+      "name": "AgriKing",
+      "industry": "Agriculture",
+      "location": "Chandigarh",
+      "employees": 65,
+      "founded": 2011
+    },
+    {
+      "id": 98,
+      "name": "TransPorter",
+      "industry": "Logistics",
+      "location": "Noida",
+      "employees": 320,
+      "founded": 2015
+    },
+    {
+      "id": 99,
+      "name": "CarePoint",
+      "industry": "Healthcare",
+      "location": "Mumbai",
+      "employees": 230,
+      "founded": 2019
+    },
+    {
+      "id": 100,
+      "name": "WealthWise",
+      "industry": "Finance",
+      "location": "Kolkata",
+      "employees": 175,
+      "founded": 2012
+    }
+  ]
+}
