@@ -13,19 +13,19 @@ export default function Filters({
   locations,
 }) {
   return (
-    <div className="mt-6 mb-8 flex flex-wrap items-center justify-center gap-4 rounded-2xl border border-gray-100 bg-white p-4 shadow-md">
+    <div className="flex flex-wrap items-center justify-center gap-4 bg-white p-4 rounded-2xl shadow-md mt-6 mb-8 border border-gray-100">
       <input
         type="text"
         placeholder="🔍 Search by name..."
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        className="w-full rounded-full border border-gray-300 px-4 py-2 transition-all duration-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none sm:w-64"
+        className="w-full sm:w-64 px-4 py-2 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300"
       />
 
       <select
         value={industry}
         onChange={(e) => setIndustry(e.target.value)}
-        className="w-full cursor-pointer rounded-full border border-gray-300 bg-white px-4 py-2 transition-all duration-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none sm:w-48"
+        className="w-full sm:w-48 px-4 py-2 rounded-full border border-gray-300 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300"
       >
         <option value="">All Industries</option>
         {industries.map((ind) => (
@@ -38,7 +38,7 @@ export default function Filters({
       <select
         value={location}
         onChange={(e) => setLocation(e.target.value)}
-        className="w-full cursor-pointer rounded-full border border-gray-300 bg-white px-4 py-2 transition-all duration-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none sm:w-48"
+        className="w-full sm:w-48 px-4 py-2 rounded-full border border-gray-300 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300"
       >
         <option value="">All Locations</option>
         {locations.map((loc) => (
@@ -51,7 +51,7 @@ export default function Filters({
       <select
         value={sortBy}
         onChange={(e) => setSortBy(e.target.value)}
-        className="w-full cursor-pointer rounded-full border border-gray-300 bg-white px-4 py-2 transition-all duration-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none sm:w-40"
+        className="w-full sm:w-40 px-4 py-2 rounded-full border border-gray-300 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300"
       >
         <option value="">Sort</option>
         <option value="name">Name (A-Z)</option>
